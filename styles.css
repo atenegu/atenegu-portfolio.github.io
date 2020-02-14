@@ -408,7 +408,9 @@ a.rijks {
 }
 
 /* ----------------RD-FOR--------------------------- */
-
+.projects-rd-for h2 {
+  box-sizing: border-box;
+}
 .rd-for {
 color: #82ABA1;
 }
@@ -417,6 +419,8 @@ color: #82ABA1;
   width: 90%;
   margin-left: auto;
   margin-right: auto;
+  align-items: center;
+  text-align: center;
 }
 
 .projects-rd-for img {
